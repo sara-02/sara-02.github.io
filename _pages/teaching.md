@@ -2,11 +2,21 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## <i style='font-size:24px' class='fas' style='color: green'>&#xf51c;</i> Tutorials Conducted
+* 2022: WSDM'22
+* 2021: ECML-PKDD'21
 
-Organize your courses by years, topics, or universities, however you like!
+## <i style='font-size:24px' class='fas' style='color: green'>&#xf51c;</i> Teaching Assitant
+* Winter 2023: CSE561, Deep Learning (Graduate Level), IIIT Delhi
+* Monsoon 2022: CSE559, Natural Language Processing (Graduate Level), IIIT Delhi
+* Winter 2021: CSE559, Mining Large Networks (Graduate Level), IIIT Delhi
+
+
+## <i style='font-size:24px' class='fas' style='color: green'>&#xf51c;</i> Instructor
+* 2017: Pyladies Remote, July Edition
+* 2016: Systers Virtual Hour of Code, Python
