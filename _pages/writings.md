@@ -25,6 +25,6 @@ Social Network Analysis [Book](https://social-network-analysis.in/)
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf11c;</i> Blogs
 * **Invited:** The paradox of Working Smarter, [Islamic Self Help](https://www.islamicselfhelp.com/2016/08/12/paradox-working-smarter/)
 
-# <b style='color: brown'>Personal Blogging</b>
+# <b style='color: brown'>Musing</b>
 * <i style='font-size:18px' class='fab'>&#xf19a;</i> Wordpress: [themessier.wordpress.com](https://themessier.wordpress.com/)
 * <i style='font-size:18px' class='fab'>&#xf37c;</i> Blogger: [https://the-mental-messier.blogspot.com/](https://the-mental-messier.blogspot.com/)

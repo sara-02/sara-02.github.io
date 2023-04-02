@@ -8,7 +8,7 @@ nav_order: 5
 ---
 
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf19d;</i> Degrees
-* **Doctorate: Ph.D in Computer Science**
+* **Doctorate: Ph.D in Computer Science <i style='font-size:18px' style='color: brown'>(ONGOING)</i>**
 	* **Time period: January 2020 - Present (4th year)**
 	* College: Dept. of CSE, Indraprastha Institute of Technology (IIIT) Delhi
 	* CGPA: 8.73/10

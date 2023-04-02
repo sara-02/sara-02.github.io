@@ -46,7 +46,7 @@ nav_order: 5
 * 2017: AnitaB Pass-it-On Awards, Grace Hopper Conference (GHC) USA
 
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf044;</i> Hackathon Reviewer
-* 2021: Global Technovation Challenge,
+* 2021: Global Technovation Challenge
 * 2019: Curiosity Machine AI Challenge, Datakind x Goole: AI for Social Good
 * 2018: Global Technovation Challenge
 * 2017: Global Technovation Challenge
