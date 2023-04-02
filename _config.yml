@@ -11,7 +11,7 @@ footer_text: >
 keywords: social computing, open source
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: sm_logo.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://sara-02.github.io # the base hostname & protocol for your site
 baseurl: /sara-02 # the subpath of your site, e.g. /blog/
@@ -118,8 +118,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # permalink: /blog/:year/:title/
 
 # Pagination
-pagination:
-  enabled: true
+# pagination:
+#   enabled: true
 
 # related_blog_posts:
 #   enabled: true
@@ -156,18 +156,18 @@ pagination:
 # Collections
 # -----------------------------------------------------------------------------
 
-collections:
-  news:
-    defaults:
-      layout: post
-    output: true
-    permalink: /news/:path/
-  projects:
-    output: true
-    permalink: /projects/:path/
+# collections:
+#   news:
+#     defaults:
+#       layout: post
+#     output: true
+#     permalink: /news/:path/
+#   projects:
+#     output: true
+#     permalink: /projects/:path/
 
-news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-news_limit: 5 # leave blank to include all the news in the `_news` folder
+# news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+# news_limit: 5 # leave blank to include all the news in the `_news` folder
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
