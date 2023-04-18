@@ -20,7 +20,7 @@ nav_order: 5
 * 2023:
 	* March: [Her Story](https://mywit.org/wit-her-story-sarah-masud/) by Women in Technology (WiT) 
 * 2022:
-	* December: [Member Spotlight](https://t.e2ma.net/message/uffqwg/ef4wsk) in Bits&Bytes Newsletter by AnitaB.org
+	* December: [Member Spotlight](https://t.e2ma.net/message/uffqwg/ef4wsk) in Bits&Bytes Newsletter by AnitaB.org, [Instagram](https://www.instagram.com/p/CmFSNcsOujr/)
 * 2017:
 	* February: [Technical Pro Tip](https://us7.campaign-archive.com/?u=e75be710ba1a2eb0df9d82ca4&id=e32924067b&e=3df279c09c) in  MakerBytes #55, Women Who Code
 
