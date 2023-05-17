@@ -9,21 +9,21 @@ nav_order: 5
 
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf19d;</i> Degrees
 * **Doctorate: Ph.D in Computer Science <i style='font-size:18px' style='color: brown'>(ONGOING)</i>**
-	* **Time period: January 2020 - Present (4th year)**
+	* **Time period: Jan 2020 - Present (4th year)**
 	* College: Dept. of CSE, Indraprastha Institute of Technology (IIIT) Delhi
 	* CGPA: 8.73/10
 	* **Thesis Area: Hate Speech Detection and Diffusion on Social Platforms**
 	* Thesis Supervisor: Dr. Tanmoy Chakraborty, Dr. Vikram Goyal
 
 * **Bachelors: B.tech in Computer Science**
-	* Time period: August 2012 - May 2016
+	* Time period: Aug 2012 - May 2016
 	* College: Dept. of CSE, Faculty of Engineering & Technology, Jamia Millia Islamia
 	* CGPA: 9.5/10 (Department Rank 4/75)
 	* **Thesis: Fuzzy Taxonomy Extraction on Big Data**
 	* Thesis Supervisor: Dr. Tanvir Ahmad, Dr. Rafeeq Ahmad 
 
 * **High School Diploma: Science Stream**
-	* Time period: April 2010 - April 2012
+	* Time period: Apr 2010 - Apr 2012
 	* School: Frank Anthony Public School, New Delhi: ICSE Board 9.35/10
 
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf51b;</i> Summer Schools

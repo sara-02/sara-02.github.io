@@ -12,7 +12,8 @@ nav_order: 5
 the Year
 
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf091;</i> Academic Scholarships
-* <i style='font-size:24px' class='fas' style='color: red'>&#xf005;</i> **Sept 2020 - Sept 2023: Prime Minister Doctoral Fellowship, SERB, Government of India**
+* <i style='font-size:24px' class='fas' style='color: red'>&#xf005;</i> **Sep 2020 - Sep 2023: Prime Minister Doctoral Fellowship, SERB, Government of India**
+* <i style='font-size:24px' class='fas' style='color: red'>&#xf005;</i> **May 2023 - Aug 2023: Overseas Research Fellowship, IIIT-Delhi**
 * Aug 2012 - Aug 2014: Department Merit Scholar, Dept. of Computer Engineering, Jamia Millia Islamia
 * Aug 2012: Mr. Harbinder Singth Dugal Rolling Trophy in Science, Frank Anthony Public School
 * Aug 2010: Mr. George W Mayer Memorial in STEM, Frank Anthony Public School

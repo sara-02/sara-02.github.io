@@ -8,7 +8,8 @@ nav_order: 5
 ---
 
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf3c9;</i> Podcasts
-* 2023: Upcoming with Women Who Code Podcast Series
+* 2023:
+	* [Biases That Exist in Toxicity Detection Systems for the Web](https://www.womenwhocode.com/blog/career-nav-41-biases-that-exist-in-toxicity-detection-systems-for-the-web) with Women Who Code
 
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf02e;</i> Project Robinhood
 * 2022: Platform To Track Hate Speech On Twitter During Assembly Elections covered by various news medias: 
