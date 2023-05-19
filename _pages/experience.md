@@ -9,7 +9,7 @@ nav_order: 5
 
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf5d2;</i> Research
 * **May 2023 - Aug 2023: Visiting Researcher, School of Social Science and Technology, TUM, Germany**
-* **Aug 2019 - Dec 2019: Research Associate, LCS2, IIIT Delhi, India**
+* Aug 2019 - Dec 2019: Research Associate, LCS2, IIIT Delhi, India
 * Mar 2019 - May 2019: Policy Research Intern, WERP India Pvt. Ltd., Remote
 
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf188;</i> Engineering
