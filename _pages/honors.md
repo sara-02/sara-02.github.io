@@ -8,8 +8,8 @@ nav_order: 5
 ---
 
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf091;</i> Awards
-* 2022: Nominated for Women in Tech Network Global Awards, Rising Star of
-the Year
+* **2023: [Nominated](https://www.womentech.net/nominee/Sarah/Masud/79424) for Globant Awards - Women that Build Edition, Rising Star India**
+* 2022: [Nominated](https://www.womentech.net/nominee/Sarah/Masud/79424) for Women in Tech Network Global Awards, Rising Star of the year.
 
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf091;</i> Academic Scholarships
 * <i style='font-size:24px' class='fas' style='color: red'>&#xf005;</i> **Sep 2020 - Sep 2023: Prime Minister Doctoral Fellowship, SERB, Government of India**
