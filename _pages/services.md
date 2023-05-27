@@ -14,7 +14,7 @@ nav_order: 5
 * 2020: RESPECT
 
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf044;</i> Workshop Reviewer
-* 2023: **Me-FOMO@ICLR**, **SemEval10@ACL**
+* 2023: **Me-FOMO@ICLR**, SemEval10@ACL, **WOAH@ACL**
 * 2022: CONSTRAINT@ACL
 * 2021: CONSTRAINT@AAAI: <i style='font-size:24px' class='fas' style='color: red'>&#xf005;</i>(Best Reviewer)
 
@@ -23,7 +23,7 @@ nav_order: 5
 
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf0ae;</i> Organizing Committee
 * 2022: ICON (physical)
-* 2021: ACSS (hybrid), 
+* 2021: ACSS (hybrid)
 * 2020: ACSS (physical)
 * 2019: COFAD (physical)
 
@@ -34,6 +34,7 @@ nav_order: 5
 
 # <b style='color: brown'>Industry Services</b>
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf044;</i> Conference Reviewer
+* 2023: Grace Hopper Conference (GHC) USA
 * 2020: Grace Hopper Conference (GHC) USA, Grace Hopper Conference (GHC) India, Scipy USA, PRAISE@IIITD
 * 2019: Grace Hopper Conference (GHC) USA, Grace Hopper Conference (GHC) India, Scipy USA, PyOhio, GHCxLondon, HasGeek Fifth Elephant
 * 2018: Grace Hopper Conference (GHC) India, Scipy USA, ODSC India
@@ -51,7 +52,6 @@ nav_order: 5
 * 2018: Global Technovation Challenge
 * 2017: Global Technovation Challenge
 
-
 # <b style='color: brown'>Community Services</b>
 * 2021: Session Chair, Original Research Track, Grace Hopper Conference India
 * 2016 - 2017: Student Volunteer at LeanIn India and LeanIn - Jamia Chapter
@@ -64,6 +64,3 @@ nav_order: 5
 * 2013 - 2016: Contributor and Editorial Board Member, FICTION Magazine
 * 2013 - 2016: Class Representative, Dept. of Computer Science & Engineering
 * 2012 - 2016: Student Volunteer at Computer Society of India - Jamia Millia Islamia Chapter (CSI-JMI) 
-
- 
-
