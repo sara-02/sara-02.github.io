@@ -19,6 +19,9 @@ nav_order: 5
 * Aug 2010: Mr. George W Mayer Memorial in STEM, Frank Anthony Public School
 
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf559;</i> Conference Grants
+* 2023:
+	* ACM SIG Student Registration Award for KDD’23
+
 * 2022: 
 	* <i style='font-size:24px' class='fas' style='color: red'>&#xf005;</i> **Microsoft India Travel Grant for KDD'22**
 	* ACM-Women Travel Grant for KDD'22
