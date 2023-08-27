@@ -15,6 +15,11 @@ nav_order: 5
 * 2017: Learn IT Girl
 * 2017: Open Source Day, Jupyter Org, GHC'17
 
+##  <i style='font-size:24px' class='fas' style='color: green'>&#xf2b5;</i> Hackathons
+* 2023: HackCOG, Esya'23 (offline)
+* 2021: Hydrangea, Hacks'21 (online)
+* 2015: PMO App Design Sprint, MyGov.org & Google India (offline)
+
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf2b5;</i> Student Mentor Programs
 * 2022: IIIT-Delhi Graduate Student Mentor for Academic Year 22-23
 * 2021: Command Tech <>, Beta Mentoring Session, August Edition
@@ -25,6 +30,3 @@ nav_order: 5
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf2b5;</i> Professional Mentoring
 * 2022: AnitaB.org Speed Mentor X 3 Months  
 * 2022: AnitaB.org AI/ML Cohort, January Edition
-* 2021: Speed Mentor for Networking Session at Hydrangea Hacks
-
-

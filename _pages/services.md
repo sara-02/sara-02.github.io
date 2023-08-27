@@ -9,7 +9,7 @@ nav_order: 5
 
 # <b style='color: brown'>Academic Services</b>
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf044;</i> Conference Reviewer
-* 2023: ECML-PKDD, **WebSci**, **EACL**
+* 2023: **EMNLP**, ECML-PKDD, **WebSci**, **EACL**
 * 2022: **COLING**, ICON, ARR
 * 2020: RESPECT
 
@@ -22,6 +22,7 @@ nav_order: 5
 * 2022: ACM TALLIP, NeuroComputing
 
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf0ae;</i> Organizing Committee
+* 2023: HASOC-FIRE, Task 3 (hybrid)
 * 2022: ICON (physical)
 * 2021: ACSS (hybrid)
 * 2020: ACSS (physical)
