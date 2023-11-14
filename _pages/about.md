@@ -8,19 +8,16 @@ profile:
   align: centre
   image: sarah_profile.png
   image_circular: true # crops the image to make it circular
-  # address: >
-  #   <p>B415, R&D Block,</p> 
-  #   <p>IIIT-Delhi</p>
-  #   <p>Okhla Phase 3</p>
-  #   <p>New Delhi, 110020, India</p>
+  address: >
+    <p>Room: B415, R&D Block</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Sarah is a 4th-year doctoral student at the [Laboratory for Computational Social Systems (LCS2)](https://lcs2.iiitd.edu.in/) at Indraprastha Institute of Information Technology, New Delhi, India. <b>For summer 2023 (May-July) she will be a visiting researcher at the TUM School of Social Science and Technology, Munich, hosted by Prof. Dr. Jürgen Pfeffer</b>.
+Sarah is a 4th-year doctoral student at the [Laboratory for Computational Social Systems (LCS2)](https://lcs2.iiitd.edu.in/) at Indraprastha Institute of Information Technology, New Delhi, India, supported by the Google Phd Fellowship (2023-2024). Within the broad area of social computing, her work mainly revolves around Hate Speech Detection & Diffusion on the web.
 
-Within the broad area of social computing, her work mainly revolves around Hate Speech Detection & Diffusion on the web. She actively collaborates with her industry partner Wipro AI to convert her POCs into MVPs as part of their larger pipeline to analyze and mitigate harmful content on the web. Her Ph.D. is supported by the illustrious and highly selective PMRF-Prime Minister Doctoral Research Fellowship (100 students across India).
+For summer 2023 (May-July) she was a visiting researcher at the TUM School of Social Science and Technology, Munich, hosted by Prof. Dr. Jürgen Pfeffer. From 2020-2023 she received the illustrious PMRF-Prime Minister Doctoral Research Fellowship (100 students across India). During those years, she actively collaborated with her industry partner Wipro AI to convert her POCs into MVPs as part of their larger pipeline to analyze and mitigate harmful content on the web.
 
 Prior to joining academia, she worked as a data scientist in developer tooling at Red Hat, Bangalore for 2.5 years. The work revolved around providing developer analytics to the OpenShift.io platform. Her team contributed to a plugin on [VSCode](https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics) and got featured in [TechCrunch](https://techcrunch.com/2017/05/02/red-hat-launches-openshift-io-an-online-ide-for-building-container-based-applications/). Even before that she obtained her Bachelors in Technology in CSE from Jamia Millia Islamia.
 
