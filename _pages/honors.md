@@ -12,6 +12,7 @@ nav_order: 5
 * 2022: [Nominated](https://www.womentech.net/nominee/Sarah/Masud/79424) for Women in Tech Network Global Awards, Rising Star of the year.
 
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf091;</i> Academic Scholarships
+* <i style='font-size:24px' class='fas' style='color: red'>&#xf005;</i> **Nov 2023: Googl PhD Fellowship**
 * <i style='font-size:24px' class='fas' style='color: red'>&#xf005;</i> **Sep 2020 - Sep 2023: Prime Minister Doctoral Fellowship, SERB, Government of India**
 * <i style='font-size:24px' class='fas' style='color: red'>&#xf005;</i> **May 2023 - Aug 2023: Overseas Research Fellowship, IIIT-Delhi**
 * Aug 2012 - Aug 2014: Department Merit Scholar, Dept. of Computer Engineering, Jamia Millia Islamia
