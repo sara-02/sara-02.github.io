@@ -27,8 +27,9 @@ nav_order: 5
 	* School: Frank Anthony Public School, New Delhi: ICSE Board 9.35/10
 
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf51b;</i> Summer Schools
-Selected for the following summer/winter ML schools
-
+Selected for the following ML schools
+* 2024: Google Research Week (Bangalore, IN)
+* 2023: Google Bindi Summit (Bangalore, IN), ACM India Academic Research and Careers for Students Symposium ACM-ARCS (Bhopal, IN)
 * 2022: Research Week with Google India (Remote), Eastern European Machine
 Learning Summer School (Remote), Online Asian Machine Learning School
 (Remote)

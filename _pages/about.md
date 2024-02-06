@@ -15,7 +15,7 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Sarah is a 4th-year doctoral student at the [Laboratory for Computational Social Systems (LCS2)](https://lcs2.iiitd.edu.in/) at Indraprastha Institute of Information Technology, New Delhi, India, supported by the Google Phd Fellowship (2023-2024). Within the broad area of social computing, her work mainly revolves around Hate Speech Detection & Diffusion on the web.
+Sarah is a 5th-year doctoral student at the [Laboratory for Computational Social Systems (LCS2)](https://lcs2.iiitd.edu.in/) at Indraprastha Institute of Information Technology, New Delhi, India, supported by the Google Phd Fellowship (2023-2024). Within the broad area of social computing, her work mainly revolves around Hate Speech Detection & Diffusion on the web.
 
 For summer 2023 (May-July) she was a visiting researcher at the TUM School of Social Science and Technology, Munich, hosted by Prof. Dr. Jürgen Pfeffer. From 2020-2023 she received the illustrious PMRF-Prime Minister Doctoral Research Fellowship (100 students across India). During those years, she actively collaborated with her industry partner Wipro AI to convert her POCs into MVPs as part of their larger pipeline to analyze and mitigate harmful content on the web.
 

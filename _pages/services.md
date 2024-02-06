@@ -9,17 +9,20 @@ nav_order: 5
 
 # <b style='color: brown'>Academic Services</b>
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf044;</i> Conference Reviewer
+* 2024: LREC-COLING, PAKDD, WebSci
 * 2023: **EMNLP**, ECML-PKDD, **WebSci**, **EACL**
 * 2022: **COLING**, ICON, ARR
 * 2020: RESPECT
 
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf044;</i> Workshop Reviewer
-* 2023: **Me-FOMO@ICLR**, SemEval10@ACL, **WOAH@ACL**
+* 2023: FIRE, **Me-FOMO@ICLR**, SemEval10@ACL, **WOAH@ACL**
 * 2022: CONSTRAINT@ACL
 * 2021: CONSTRAINT@AAAI: <i style='font-size:24px' class='fas' style='color: red'>&#xf005;</i>(Best Reviewer)
 
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf044;</i> Journal Reviewer
+* 2024: ACM TWeb
 * 2022: ACM TALLIP, NeuroComputing
+* 2021: Wiley Computational Intelligence Journal
 
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf0ae;</i> Organizing Committee
 * 2023: HASOC-FIRE, Task 3 (hybrid)
