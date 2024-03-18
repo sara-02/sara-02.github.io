@@ -9,7 +9,7 @@ nav_order: 5
 
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf19d;</i> Degrees
 * **Doctorate: Ph.D in Computer Science <i style='font-size:18px' style='color: brown'>(ONGOING)</i>**
-	* **Time period: Jan 2020 - Present (4th year)**
+	* **Time period: Jan 2020 - Present (5th year)**
 	* College: Dept. of CSE, Indraprastha Institute of Technology (IIIT) Delhi
 	* CGPA: 8.73/10
 	* **Thesis Area: Hate Speech Detection and Diffusion on Social Platforms**
