@@ -7,14 +7,16 @@ nav: true
 nav_order: 5
 ---
 
-## <i style='font-size:24px' class='fas' style='color: green'>&#xf091;</i> Awards
-* **2023: [Nominated](https://womenawards.globant.com/2023/RisingStar/SarahMasud) for Globant Awards - Women that Build Edition, Rising Star India**
+## <i style='font-size:24px' class='fas' style='color: green'>&#xf091;</i>Accolades
+* 2024: <i style='font-size:24px' class='fas' style='color: red'>&#xf005;</i>**Inducted into Young Researcher Program, Heidelberg Laureate Forum**
+* 2023: [Nominated](https://womenawards.globant.com/2023/RisingStar/SarahMasud) for Globant Awards - Women that Build Edition, Rising Star India
 * 2022: [Nominated](https://www.womentech.net/nominee/Sarah/Masud/79424) for Women in Tech Network Global Awards, Rising Star of the year.
 
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf091;</i> Academic Scholarships
+* Mar 2024: AnitaB.org Advancing Inclusion Scholarship
 * <i style='font-size:24px' class='fas' style='color: red'>&#xf005;</i> **Nov 2023: Google PhD Fellowship**
 * <i style='font-size:24px' class='fas' style='color: red'>&#xf005;</i> **Sep 2020 - Sep 2023: Prime Minister Doctoral Fellowship, SERB, Government of India**
-* <i style='font-size:24px' class='fas' style='color: red'>&#xf005;</i> **May 2023 - Aug 2023: Overseas Research Fellowship, IIIT-Delhi**
+* May 2023 - Aug 2023: Overseas Research Fellowship, IIIT-Delhi
 * Aug 2012 - Aug 2014: Department Merit Scholar, Dept. of Computer Engineering, Jamia Millia Islamia
 * Aug 2012: Mr. Harbinder Singth Dugal Rolling Trophy in Science, Frank Anthony Public School
 * Aug 2010: Mr. George W Mayer Memorial in STEM, Frank Anthony Public School
