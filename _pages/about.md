@@ -6,7 +6,7 @@ subtitle: Phd Student | Social Computing | NLP
 
 profile:
   align: centre
-  image: sarah_profile.png
+  image: sarah_profile.jpg
   image_circular: true # crops the image to make it circular
   address: >
     <p>Room: B415, R&D Block</p>

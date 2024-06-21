@@ -9,8 +9,8 @@ nav_order: 5
 
 # <b style='color: brown'>Academic Services</b>
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf044;</i> Conference Reviewer
-* 2024: **ACL**, LREC-COLING, PAKDD, WebSci, NAACL
-* 2023: **EMNLP**, ECML-PKDD, **WebSci**, **EACL**
+* 2024: **ACL**, LREC-COLING, ASONAM, PAKDD, WebSci, **NAACL**, ARR, ECML-PKDD
+* 2023: **EMNLP**, ECML-PKDD, **WebSci**, **EACL**, ARR
 * 2022: **COLING**, ICON, ARR
 * 2020: RESPECT
 
