@@ -9,7 +9,7 @@ nav_order: 5
 
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf091;</i>Accolades
 * 2024: <i style='font-size:24px' class='fas' style='color: red'>&#xf005;</i>**Inducted into Young Researcher Program, Heidelberg Laureate Forum**
-* 2024: Finalist:  [Digital Woman for Good Award 2024](https://digitalwomenawards.com/awards-news)
+* 2024: Finalist:  [Digital Woman for Good Award 2024](https://digitalwomenawards.com/awards-news/digital-women-for-good-hjkkd)
 * 2023: Nominated: [Globant Awards, Women that Build Edition, Rising Star India](https://womenawards.globant.com/2023/RisingStar/SarahMasud)
 * 2022: Nominated: [Women in Tech Network Global Awards, Rising Star of the year](https://www.womentech.net/nominee/Sarah/Masud/79424)
 

@@ -21,7 +21,7 @@ nav_order: 5
 * 2021: CONSTRAINT@AAAI: <i style='font-size:24px' class='fas' style='color: red'>&#xf005;</i>(Best Reviewer)
 
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf044;</i> Journal Reviewer
-* 2024: ACM TWeb
+* 2024: ACM TWeb, ACM TALLIP
 * 2022: ACM TALLIP, NeuroComputing
 * 2021: Wiley Computational Intelligence Journal
 
