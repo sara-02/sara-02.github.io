@@ -14,7 +14,7 @@ nav_order: 5
 * 2024: May: [Science NextGen Voices: Preventing bad behavior in academia](https://www.science.org/doi/10.1126/science.adr0734)
 
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf10d;</i> Featured In
-* 2024: May: [DataLike](https://datalike.substack.com/p/datalike-09-sarah-masud) , June: [PhDs of India](https://phdsofindia.medium.com/patience-over-passion-da9cd1017843)
+* 2024: Sep: [Uni. of Copenhagen New Faces](https://pkunet-shared.ku.dk/newsroom/news/pages/new-faces-at-diku-in-august-and-september-2024.aspx), Sep: [HackerNoon](https://hackernoon.com/meet-sarah-masud-google-phd-fellow-and-final-year-doctoral-student-at-iiit-delhi), May: [DataLike](https://datalike.substack.com/p/datalike-09-sarah-masud) , June: [PhDs of India](https://phdsofindia.medium.com/patience-over-passion-da9cd1017843)
 * 2023: Jan: [Women in Technology (WiT)](https://mywit.org/wit-her-story-sarah-masud/)
 * 2022: Dec: [AnitaB.org](https://t.e2ma.net/message/uffqwg/ef4wsk)
 * 2018: Oct: [Women Who Code](https://mailchi.mp/3b807ec40c0a/d8icgiexg0-869769?e=3df279c09c)

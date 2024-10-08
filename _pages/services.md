@@ -15,7 +15,7 @@ nav_order: 5
 * 2020: RESPECT
 
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf044;</i> Workshop Reviewer
-* 2024: SRW@NAACL, **Me-FOMO@ICLR**, **WOAH@ACL**
+* 2024: SoLaR@NeurIPS, Pluralistic@NeurIPS, SRW@NAACL, **Me-FOMO@ICLR**, **WOAH@ACL**
 * 2023: FIRE, **Me-FOMO@ICLR**, SemEval10@ACL, **WOAH@ACL**
 * 2022: CONSTRAINT@ACL
 * 2021: CONSTRAINT@AAAI: <i style='font-size:24px' class='fas' style='color: red'>&#xf005;</i>(Best Reviewer)
