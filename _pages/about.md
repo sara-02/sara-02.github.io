@@ -2,23 +2,37 @@
 layout: about
 title: about
 permalink: /
-subtitle: Phd Student | Social Computing | NLP
+subtitle: NLP | AI | Social Computing.
 
 profile:
   align: centre
   image: sarah_profile.jpg
   image_circular: true # crops the image to make it circular
-  address: >
-    <p>Room: B415, R&D Block</p>
+  address:
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Sarah is a 5th-year doctoral student at the [Laboratory for Computational Social Systems (LCS2)](https://lcs2.iiitd.edu.in/) at Indraprastha Institute of Information Technology, New Delhi, India, supported by the Google Phd Fellowship (2023-2024). Within the broad area of social computing, her work mainly revolves around Hate Speech Detection & Diffusion on the web. From 2020-2023 she received the illustrious PMRF-Prime Minister Doctoral Research Fellowship (100 students across India). During those years, she actively collaborated with her industry partner Wipro AI to convert her POCs into MVPs as part of their larger pipeline to analyze and mitigate harmful content on the web. For summer 2023 (May-July) she was a visiting researcher at the TUM School of Social Science and Technology, Munich, hosted by Prof. Dr. Jürgen Pfeffer. 
+Hello there, I am a computational social science researcher, applying technology to study technology's impact on society. My work builds upon network science, natural language processing, and social science to study digital spaces. 
 
-Prior to joining academia, she worked as a data scientist in developer tooling at Red Hat, Bangalore for 2.5 years. The work revolved around providing developer analytics to the OpenShift.io platform. Her team contributed to a plugin on [VSCode](https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics) and got featured in [TechCrunch](https://techcrunch.com/2017/05/02/red-hat-launches-openshift-io-an-online-ide-for-building-container-based-applications/). Even before that she obtained her Bachelors in Technology in CSE from Jamia Millia Islamia.
 
-Currently, she is a member of the AnitaB.org's [AI Membership Committee](https://membership.anitab.org/page/connect-with-the-Artificial-Intelligence-Committee) and a [reviewer](https://joss.theoj.org/papers/reviewed_by/@sara-02) with the Journal of Open Source Software, having reviewed 10+ projects since 2020.
+**What am I currently up to?**
 
-Sarah is an avid reader and a seasonal poet 😉. Since 2016, she has spoken/presented at 30+ technical as well non-technical venues. Complete list of her talks and presentation material is available [here](https://github.com/sara-02/pradarshan).
+I am currently a Postdoc with Prof. Isabelle Augestein at [CopeNLU](https://www.copenlu.com/), Department of Computer Science, University of Copenhagen. In my postdoc, I am investigating the use of computational techniques to study narrative styles and their role in misinformation. I am hosted at the picturesque [Pioneer Center of AI](https://www.aicentre.dk/the-centre-p1).
+
+Since 2020, I have been volunteering as a reviewer for the [Journal of Open Source Software](https://joss.theoj.org/papers/reviewed_by/@sara-02). I  classify myself as an avid reader, a seasonal poet 😉 and a reluctant speaker. A *not-so-updated* list of my talks, open mics, and presentation material is available [here](https://github.com/sara-02/pradarshan).
+
+**What was my Phd thesis on?**
+
+Supervised by Dr. Tanmoy Chakraborty and Prof. Vikram Goyal, I worked on applying computational techniques to analyse hate speech on the Web. I was hosted at [Laboratory for Computational Social Systems (LCS2)](https://lcs2.iiitd.edu.in/) at Indraprastha Institute of Information Technology, New Delhi. In 2024, I was selected as one of the Young Researchers for the 11th [Heidelberg Laureate Forum](https://www.heidelberg-laureate-forum.org/).
+
+During my Phd, I was fortunate to receive financial support from Google Phd Fellowship (2023-2024), the Prime Minister Doctoral Research Fellowship - PMRF (2020-2023), and WiproAI (2020-2023).
+
+For summer 2023 (May-July), I was a visiting researcher at the School of Social Science and Technology, Technical University of Munich, hosted by Prof. Jürgen Pfeffer. My visit there was supported by the Overseas Research Fellowship at IIIT-Delhi.
+
+**What was I up to in my previous life?**
+
+Prior to joining academia, I worked as a data scientist in developer tooling at Red Hat, Bangalore, for 2.5 years. The work revolved around providing developer analytics to the OpenShift.io platform. Our work contributed to a plugin on [VSCode](https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics) and got featured in [TechCrunch](https://techcrunch.com/2017/05/02/red-hat-launches-openshift-io-an-online-ide-for-building-container-based-applications/). Even before that, in 2016, I obtained a Bachelor's in Technology in Computer Science & Engineering from Jamia Millia Islamia.
+
+From 2015 to 2024, I was a volunteer and mentor with AnitB.org. I also served as a member of their [AI Committee](https://membership.anitab.org/page/connect-with-the-Artificial-Intelligence-Committee).
