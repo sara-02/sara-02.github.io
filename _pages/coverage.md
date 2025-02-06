@@ -10,8 +10,8 @@ nav_order: 5
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf3c9;</i> Podcasts
 * 2023: [Biases That Exist in Toxicity Detection Systems for the Web](https://www.womenwhocode.com/blog/career-nav-41-biases-that-exist-in-toxicity-detection-systems-for-the-web) with Women Who Code
 
-## <i style='font-size:24px' class='fas' style='color: green'>&#xf10d;</i> Quoted In
-* 2024: May: [Science NextGen Voices: Preventing bad behavior in academia](https://www.science.org/doi/10.1126/science.adr0734)
+<!-- ## <i style='font-size:24px' class='fas' style='color: green'>&#xf10d;</i> Quoted In
+* 2024: May: [Science NextGen Voices: Preventing bad behavior in academia](https://www.science.org/doi/10.1126/science.adr0734) -->
 
 ## <i style='font-size:24px' class='fas' style='color: green'>&#xf10d;</i> Featured In
 * 2024: Sep: [Uni. of Copenhagen New Faces](https://pkunet-shared.ku.dk/newsroom/news/pages/new-faces-at-diku-in-august-and-september-2024.aspx), Sep: [HackerNoon](https://hackernoon.com/meet-sarah-masud-google-phd-fellow-and-final-year-doctoral-student-at-iiit-delhi), May: [DataLike](https://datalike.substack.com/p/datalike-09-sarah-masud) , June: [PhDs of India](https://phdsofindia.medium.com/patience-over-passion-da9cd1017843)
