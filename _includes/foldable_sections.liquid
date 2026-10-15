@@ -1,0 +1,32 @@
+<!-- Click-to-expand page sections: <details class="fold"><summary><h1|h2>…</h1|h2></summary> … </details>
+     Accordion: opening one section closes the other open sections on the page.
+     A section with an id opens when the URL points at it, e.g. /coverage/#featured-research. -->
+<style>
+  details.fold { margin: 0.75rem 0; }
+  details.fold > summary { cursor: pointer; }
+  details.fold > summary > h1,
+  details.fold > summary > h2 { display: inline; margin: 0; font-size: 1.5rem; }
+  details.fold h3 { font-size: 1.2rem; margin: 1.25rem 0 0.5rem; }
+  /* the green section icons carry a hard-coded 24px size; match them to their heading */
+  details.fold > summary i.fas,
+  details.fold h3 i.fas { font-size: 1em !important; margin-right: 0.3rem; }
+  details.fold[open] > summary { margin-bottom: 0.75rem; }
+</style>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var sections = document.querySelectorAll("details.fold");
+    var target = location.hash && document.getElementById(location.hash.slice(1));
+    if (target && target.matches("details.fold")) {
+      target.open = true;
+      target.scrollIntoView();
+    }
+    sections.forEach(function (section) {
+      section.addEventListener("toggle", function () {
+        if (!section.open) return;
+        sections.forEach(function (other) {
+          if (other !== section) other.open = false;
+        });
+      });
+    });
+  });
+</script>

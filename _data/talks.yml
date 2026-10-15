@@ -1,0 +1,573 @@
+# Talks, posters, tutorials and open mics, shown on /talks/ (newest first).
+# Fields: date (YYYY-MM-DD), type (talk | tutorial | workshop | poster | panel | podcast | open-mic), title, event (no year), event_url,
+#         format (e.g. 'Conference, research track full paper'), location (city only, e.g. 'Bangalore'; or 'IIIT Delhi'; or 'Online'), links (label: url).
+# Ported from github.com/sara-02/pradarshan in Oct 2026.
+
+- date: 2022-09-21
+  type: panel
+  title: "Early Career Virtual Networking Session"
+  event: "GHC"
+  event_url: "https://github.com/sara-02/pradarshan/blob/master/GHC_22_Early_Career.png"
+  format: "Conference; Session Facilitator"
+  location: "Online"
+
+- date: 2022-08-17
+  type: talk
+  title: "Proactively Reducing the Hate Intensity of Online Posts via Hate Speech Normalization"
+  event: "ACM SIGKDD"
+  event_url: "https://kdd.org/kdd2022/"
+  format: "Conference; Research, ADS Track full paper"
+  location: "Washington DC"
+  links:
+    - { label: "Paper", url: "https://dl.acm.org/doi/10.1145/3534678.3539161" }
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/proactive-normalization-kdd2022" }
+
+- date: 2022-08-17
+  type: talk
+  title: "Counseling Summarization Using Mental Health Knowledge Guided Utterance Filtering"
+  event: "ACM SIGKDD"
+  event_url: "https://kdd.org/kdd2022/"
+  format: "Conference; Research, ADS Track full paper; Proxy presenter"
+  location: "Washington DC"
+  links:
+    - { label: "Paper", url: "https://dl.acm.org/doi/10.1145/3534678.3539187" }
+    - { label: "Poster", url: "https://github.com/sara-02/pradarshan/blob/master/KDD_Poster_Aseem.pdf" }
+
+- date: 2022-04-08
+  type: poster
+  title: "Hate is the New Infodemic: A Topic-aware Modeling of Hate Speech Diffusion on Twitter"
+  event: "RIISE"
+  event_url: "https://iiitd.ac.in/riise2022/"
+  format: "Research Showcase"
+  location: "IIIT Delhi"
+  links:
+    - { label: "Poster", url: "https://github.com/sara-02/pradarshan/blob/master/Sarah_Masud_LCS2_RIISE22.jpg" }
+
+- date: 2022-02-21
+  type: tutorial
+  title: "Combating Online Hate Speech"
+  event: "WSDM"
+  event_url: "https://www.wsdm-conference.org/2022/"
+  format: "Conference; Tutorial"
+  location: "Online"
+  links:
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/tutorial-on-combating-online-hate-speech" }
+    - { label: "Website", url: "https://hatewash.github.io/" }
+
+- date: 2021-11-07
+  type: panel
+  title: "NARI: Women in Technology"
+  event: "FFEC Webinar Series"
+  event_url: "https://github.com/sara-02/pradarshan/blob/master/NARI_WIT.jpeg"
+  format: "Webinar; Panel Discussion"
+  location: "Online"
+
+- date: 2021-09-13
+  type: tutorial
+  title: "Combating Online Hate Speech"
+  event: "ECML PKDD"
+  event_url: "https://2021.ecmlpkdd.org/"
+  format: "Conference; Tutorial"
+  location: "Online"
+  links:
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/tutorial-on-combating-online-hate-speech" }
+    - { label: "Website", url: "https://hatewash.github.io/" }
+
+- date: 2021-07-13
+  type: talk
+  title: "Hate is the New Infodemic: A Topic-aware Modeling of Hate Speech Diffusion on Twitter"
+  event: "IEEE ICDE"
+  event_url: "https://ieeexplore.ieee.org/xpl/conhome/9458599/proceeding"
+  format: "Conference; Research Track Full Paper"
+  location: "Online"
+  links:
+    - { label: "Paper", url: "https://ieeexplore.ieee.org/document/9458789" }
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/icde-21-full-presentation" }
+    - { label: "Video", url: "https://www.youtube.com/watch?v=4RJzBGIRqZk" }
+
+- date: 2020-08-23
+  type: talk
+  title: "Deep Exogenous and Endogenous Influence Combination for Social Chatter"
+  event: "ACM SIGKDD"
+  event_url: "https://www.kdd.org/kdd2020"
+  format: "Conference; Research Track: Social Informatics full paper"
+  location: "Online"
+  links:
+    - { label: "Paper", url: "https://arxiv.org/abs/2006.07812" }
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/kdd-full-presentation" }
+    - { label: "Video", url: "https://www.youtube.com/watch?v=MWoNQvclpoo" }
+
+- date: 2020-08-23
+  type: poster
+  title: "Deep Exogenous and Endogenous Influence Combination for Social Chatter"
+  event: "ACM SIGKDD"
+  event_url: "https://www.kdd.org/kdd2020"
+  format: "Conference; Research Track: Social Informatics full paper"
+  location: "Online"
+  links:
+    - { label: "Paper", url: "https://arxiv.org/abs/2006.07812" }
+    - { label: "Poster slides", url: "https://speakerdeck.com/_themessier/kdd2020-poster-promotion" }
+    - { label: "Poster video", url: "https://www.youtube.com/watch?v=4SOmBmi8g3Y" }
+
+- date: 2020-01-11
+  type: talk
+  title: "Spotting Collective Behaviour of Online Frauds in Customer Review"
+  event: "Combating Fraud Activities using Data Science"
+  event_url: "http://lcs2.iiitd.edu.in/cofad/"
+  format: "Conference; Student Presenter"
+  location: "IIIT Delhi"
+  links:
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/spotting-collective-behaviour-of-online-frauds-in-customer-reviews" }
+
+- date: 2019-08-03
+  type: talk
+  title: "Magic of Numpy"
+  event: "PyData Delhi"
+  event_url: "https://pydata.org/delhi2019/"
+  format: "Conference; Presentation"
+  location: "IIIT Delhi"
+  links:
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/sarah-masud-pyd19" }
+    - { label: "Code", url: "https://github.com/sara-02/pradarshan/blob/master/Numpy_PyData_DEL_2019.ipynb" }
+
+- date: 2019-03-31
+  type: tutorial
+  title: "Intro To ML, ML Handson"
+  event: "LetsPyDelhi"
+  event_url: "https://twitter.com/DelhiLetspy"
+  format: "Bootcamp"
+  location: "IIIT Delhi"
+  links:
+    - { label: "Code", url: "https://github.com/sara-02/pradarshan/tree/master/IIIT_D" }
+
+- date: 2018-09-26
+  type: tutorial
+  title: "Building Cloud Native Applications"
+  event: "Grace Hopper Celebration of Women in Computing"
+  event_url: "https://ghc.anitaborg.org/"
+  format: "Conference"
+  location: "Houston"
+  links:
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/building-cloud-native-applications" }
+
+- date: 2018-06-30
+  type: talk
+  title: "Matrix factorization: Gaussian vs Poisson Distribution"
+  event: "AI Day"
+  event_url: "https://www.meetup.com/Practical-Data-Science-Workshops-Bangalore/events/251361758/"
+  format: "Meetup; Presentation"
+  location: "Bangalore"
+  links:
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/mf-gaussian-vs-poisson" }
+
+- date: 2018-03-10
+  type: talk
+  title: "Seven Sins of a Data Science Newbie"
+  event: "Women in Data Science, Regional Event"
+  event_url: "https://sites.google.com/view/wids-mumbai/wids-mumbai-18"
+  format: "Conference; Presentation"
+  location: "Mumbai"
+  links:
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/seven-sins-of-data-science-newbie" }
+
+- date: 2018-03-08
+  type: talk
+  title: "Seven Sins of a Data Science Newbie"
+  event: "Christ University SHE-IWD Celebration"
+  event_url: "https://github.com/sara-02/pradarshan/blob/master/IMG-20180308-WA0000.jpg"
+  format: "Conference; Presentation"
+  location: "Bangalore"
+  links:
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/seven-sins-of-data-science-newbie" }
+
+- date: 2018-01-20
+  type: open-mic
+  title: "The Eternal Sunshine Of The Spotless Mind"
+  event: "Let Poetry Be-January Edition"
+  event_url: "https://www.facebook.com/letpoetrybe/"
+  format: "Open Mic; Poetry"
+  location: "Bangalore"
+  links:
+    - { label: "Poem", url: "https://themessier.wordpress.com/2020/08/26/the-eternal-sunshine-of-the-spotless-mind/" }
+
+- date: 2017-11-18
+  type: open-mic
+  title: "Being One of Their Kind"
+  event: "Let Poetry Be-November Edition"
+  event_url: "https://www.facebook.com/events/1086149611520187/"
+  format: "Open Mic; Poetry"
+  location: "Bangalore"
+  links:
+    - { label: "Poem", url: "https://themessier.wordpress.com/2017/11/25/being-one-of-their-kind/" }
+
+- date: 2017-10-03
+  type: poster
+  title: "Framework to Extract Context Vectors from Unstructured Data using Big Data Analytics"
+  event: "Grace Hopper Celebration of Women in Computing"
+  event_url: "https://ghc.anitaborg.org/"
+  format: "Conference; Poster"
+  location: "Orlando"
+  links:
+    - { label: "Poster", url: "https://github.com/sara-02/pradarshan/blob/master/GHC_17_Poster.pdf" }
+
+- date: 2017-09-24
+  type: open-mic
+  title: "Be Careful What You Wish For"
+  event: "100 Thousand Poets for Change"
+  event_url: "https://www.facebook.com/events/1920690724846838"
+  format: "Open Mic; Poetry"
+  location: "Bangalore"
+  links:
+    - { label: "Poem", url: "https://themessier.wordpress.com/2017/09/23/be-careful-what-you-wish-for/" }
+
+- date: 2017-09-16
+  type: tutorial
+  title: "Introduction to Python Pandas for newbies"
+  event: "Fedora Women's Day"
+  event_url: "https://fedoraproject.org/wiki/FWD_Bangalore_2017"
+  format: "Meetup"
+  location: "Bangalore"
+  links:
+    - { label: "Slides", url: "https://github.com/sara-02/pradarshan/blob/master/FWD_17_intro_to_pandas.ipynb" }
+
+- date: 2017-07-22
+  type: tutorial
+  title: "Introduction to Data Wrangling with Pandas (Intermediate Level)"
+  event: "Pyladies Remote July Edition"
+  event_url: "https://www.eventbrite.com/e/introduction-to-data-wrangling-with-pandas-with-sarah-masud-tickets-35614660408"
+  format: "Webinar"
+  location: "Online"
+  links:
+    - { label: "Video", url: "https://www.youtube.com/watch?v=XZW3mMkQzSg" }
+    - { label: "Code", url: "https://github.com/sara-02/pradarshan/tree/master/pandas_basic" }
+
+- date: 2017-03-11
+  type: talk
+  title: "The Alice and Bob problem of Open Source Licenses"
+  event: "Fossmeet"
+  event_url: "http://www.fossmeet.in/2017/public/#home"
+  format: "Conference; Presentation"
+  location: "Calicut"
+  links:
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/fossmeet17-sarah" }
+
+- date: 2017-03-03
+  type: talk
+  title: "Gremlin- The universal graph language"
+  event: "Women Who Code Connect"
+  event_url: "https://sites.google.com/view/wwcconnectindia"
+  format: "Conference; Presentation"
+  location: "Bangalore"
+  links:
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/wwc-connect-blr" }
+
+- date: 2017-02-24
+  type: tutorial
+  title: "Gremlin-python hands-on"
+  event: "Data Science in Production"
+  event_url: "https://www.meetup.com/Practical-Data-Science-Workshops-Bangalore/events/237396439/"
+  format: "Meetup; Tutorial"
+  location: "Bangalore"
+  links:
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/data-science-in-production" }
+    - { label: "Code", url: "https://github.com/sara-02/pradarshan/tree/master/gremlin_basic" }
+
+- date: 2016-09-10
+  type: tutorial
+  title: "Git and Github"
+  event: "FOSS Wave : Fedora and Version Control"
+  event_url: "https://www.facebook.com/events/1613713442259619/"
+  format: "Meetup"
+  location: "Bangalore"
+  links:
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/git-and-github" }
+
+# --- Added from speakerdeck.com/_themessier (Oct 2026). Dates are the Speaker Deck upload dates unless the event date is known.
+#     Entries without `event` still need the event/venue filled in.
+
+- date: 2026-04-15
+  type: talk
+  title: "Tracking Knowledge Diversity in LLM-Generated Responses"
+  event: "PyCon DE & PyData"
+  event_url: "https://2026.pycon.de/"
+  format: "Conference"
+  location: "Darmstadt"
+  links:
+    - { label: "Paper", url: "https://arxiv.org/abs/2510.04226" }
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/tracking-knowledge-diversity-in-llm-generated-responses" }
+    - { label: "Video", url: "https://www.youtube.com/watch?v=vGvXgpWFS_A" }
+
+- date: 2025-11-21
+  type: talk
+  title: "Steer Thy Language Model"
+  event: "Data Science Summit"
+  event_url: "https://dssconf.pl/"
+  format: "Conference"
+  location: "Warsaw"
+  links:
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/steer-thy-language-model" }
+
+- date: 2025-09-03
+  type: talk
+  title: "Quantifying the role of contextual signals for modelling hateful text"
+  event: "IIIT Delhi"
+  format: "PhD thesis defence"
+  links:
+    - { label: "Thesis", url: "https://repository.iiitd.edu.in/xmlui/handle/123456789/1772" }
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/thesis-presentation" }
+
+- date: 2025-06-23
+  type: talk
+  title: "Proactive Mitigation"
+  event: "DeTox Workshop, ICWSM"
+  event_url: "https://www.icwsm.org/2025/"
+  format: "Lightning talk"
+  location: "Copenhagen"
+  links:
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/proactive-mitigation-detox-icwsm" }
+
+- date: 2024-03-17
+  type: talk
+  title: "Probing Critical Learning Dynamics of PLMs for Hate Speech Detection"
+  event: "EACL"
+  event_url: "https://2024.eacl.org/"
+  format: "Conference; Findings paper"
+  links:
+    - { label: "Paper", url: "https://doi.org/10.18653/v1/2024.findings-eacl.55" }
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/probing-critical-learning-dynamics-of-plms-for-hate-speech-detection" }
+
+- date: 2024-04-12
+  type: talk
+  title: "An overview of hate speech analysis techniques in NLP"
+  links:
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/an-overview-of-hate-speech-analysis-techniques-in-nlp" }
+
+- date: 2023-11-17
+  type: talk
+  title: "Hateful Signals and Where to Find Them"
+  event: "Google Bindi Summit"
+  format: "Summit"
+  location: "Bangalore"
+  links:
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/hateful-signals-and-where-to-find-them" }
+
+- date: 2023-11-17
+  type: talk
+  title: "Hateful Signals In Indic Context and Where to Find Them"
+  event: "Ketchup Talk, IIIT Delhi"
+  format: "Department talk"
+  location: "IIIT Delhi"
+  links:
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/hateful-signals-in-indic-context-and-where-to-find-them" }
+
+- date: 2023-09-21
+  type: talk
+  title: "Lessons learned from analyzing systems for hate speech detection and bias mitigation"
+  event: "NLP With Friends"
+  format: "Seminar; Invited talk"
+  location: "Online"
+  links:
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/nlp-with-friends" }
+
+- date: 2023-08-09
+  type: talk
+  title: "Revisiting Hate Speech Benchmarks: From Data Curation to System Deployment"
+  event: "ACM SIGKDD"
+  event_url: "https://kdd.org/kdd2023/"
+  format: "Conference; Research Track full paper"
+  location: "Long Beach"
+  links:
+    - { label: "Paper", url: "https://doi.org/10.1145/3580305.3599896" }
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/revisiting-hate-speech-benchmarks-kdd-2023" }
+
+- date: 2023-07-17
+  type: talk
+  title: "Role of NLP in Analysing Hate Speech"
+  event: "LMU Munich"
+  event_url: "https://www.lmu.de/en/"
+  format: "Invited guest talk"
+  location: "Munich"
+  links:
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/role-of-nlp-in-analysing-hate-speech" }
+
+- date: 2023-07-13
+  type: talk
+  title: "Political Attack India"
+  event: "TUM School of Social Sciences and Technology"
+  event_url: "https://www.sot.tum.de/en/sot/home/"
+  format: "Invited talk"
+  location: "Munich"
+  links:
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/political-attack-india" }
+
+- date: 2023-04-17
+  type: podcast
+  title: "Biases That Exist in Toxicity Detection Systems for the Web"
+  event: "Women Who Code, Career Nav #41"
+  event_url: "https://www.womenwhocode.com/blog/career-nav-41-biases-that-exist-in-toxicity-detection-systems-for-the-web"
+  format: "Podcast"
+  location: "Online"
+  links:
+    - { label: "Listen", url: "https://www.womenwhocode.com/blog/career-nav-41-biases-that-exist-in-toxicity-detection-systems-for-the-web" }
+
+- date: 2023-01-27
+  type: talk
+  title: "CSE Ketchup Talk"
+  event: "IIIT Delhi"
+  format: "Department talk"
+  location: "IIIT Delhi"
+  links:
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/cse-ketchuptalk-sarah" }
+
+- date: 2022-11-22
+  type: talk
+  title: "Application of NLP in Hate Speech"
+  event: "Natural Language Processing (Graduate Level), IIIT Delhi"
+  format: "Guest lecture"
+  location: "IIIT Delhi"
+  links:
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/application-of-nlp-in-hate-speech" }
+
+- date: 2022-09-28
+  type: talk
+  title: "PhD Comprehensive Exam (public talk)"
+  event: "IIIT Delhi"
+  format: "PhD comprehensive exam"
+  location: "IIIT Delhi"
+  links:
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/phd-comprehensive-public" }
+
+- date: 2021-02-08
+  type: talk
+  title: "Fake News Detection System using XLNet model with Topic Distributions"
+  event: "CONSTRAINT Workshop, AAAI"
+  event_url: "https://constraint-shared-task-2021.github.io/"
+  format: "Shared task paper; Presented by Akansha"
+  location: "Online"
+  links:
+    - { label: "Paper", url: "https://doi.org/10.1007/978-3-030-73696-5_18" }
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/fake-news-detection-system-using-xlnet-model-with-topic-distributions" }
+
+# --- Posters (Oct 2026). `month_unknown: true` shows only the year.
+
+- date: 2025-07-14
+  type: poster
+  title: "Hate Personified: Investigating the role of LLMs in content moderation"
+  event: "Cardiff NLP Summer Workshop"
+  event_url: "https://2025.cardiffnlpworkshop.org/"
+  format: "Workshop"
+  location: "Cardiff"
+  links:
+    - { label: "Paper", url: "https://doi.org/10.18653/v1/2024.emnlp-main.886" }
+
+- date: 2025-03-30
+  type: poster
+  title: "QUENCH: Measuring the gap between Indic and Non-Indic Contextual General Reasoning in LLMs"
+  event: "ALPS"
+  event_url: "https://alps-2025.imag.fr/"
+  format: "Advanced Language Processing School"
+  location: "Aussois"
+  links:
+    - { label: "Paper", url: "https://aclanthology.org/2025.coling-main.303/" }
+
+- date: 2024-08-11
+  type: poster
+  title: "Tox-BART: Leveraging Toxicity Attributes for Explanation Generation of Implicit Hate Speech"
+  event: "ACL"
+  event_url: "https://2024.aclweb.org/"
+  format: "Conference; Findings paper"
+  location: "Bangkok"
+  links:
+    - { label: "Paper", url: "https://doi.org/10.18653/v1/2024.findings-acl.831" }
+
+- date: 2023-08-09
+  type: poster
+  title: "Revisiting Hate Speech Benchmarks: From Data Curation to System Deployment"
+  event: "ACM SIGKDD"
+  event_url: "https://kdd.org/kdd2023/"
+  format: "Conference; Research Track full paper"
+  location: "Long Beach"
+  links:
+    - { label: "Paper", url: "https://doi.org/10.1145/3580305.3599896" }
+
+- date: 2022-08-17
+  type: poster
+  title: "Proactively Reducing the Hate Intensity of Online Posts via Hate Speech Normalization"
+  event: "ACM SIGKDD"
+  event_url: "https://kdd.org/kdd2022/"
+  format: "Conference; Research, ADS Track full paper"
+  location: "Washington DC"
+  links:
+    - { label: "Paper", url: "https://dl.acm.org/doi/10.1145/3534678.3539161" }
+    - { label: "Poster", url: "https://github.com/sara-02/pradarshan/blob/master/KDD_Poster_Sarah.pdf" }
+
+- date: 2025-07-26
+  type: poster
+  title: "Hate Personified: Investigating the role of LLMs in content moderation"
+  event: "Pre-ACL Workshop"
+  event_url: "https://www.aicentre.dk/events/pre-acl-2025-workshop"
+  format: "Workshop"
+  location: "Copenhagen"
+  links:
+    - { label: "Paper", url: "https://doi.org/10.18653/v1/2024.emnlp-main.886" }
+
+- date: 2023-02-09
+  type: poster
+  title: "Proactively Reducing the Hate Intensity of Online Posts via Hate Speech Normalization"
+  event: "ACM India ARCS"
+  event_url: "https://event.india.acm.org/ARCS/2023"
+  format: "Academic Research and Careers for Students Symposium"
+  location: "Bhopal"
+  links:
+    - { label: "Paper", url: "https://dl.acm.org/doi/10.1145/3534678.3539161" }
+
+- date: 2021-07-13
+  type: poster
+  title: "Hate is the New Infodemic: A Topic-aware Modeling of Hate Speech Diffusion on Twitter"
+  event: "IEEE ICDE"
+  event_url: "https://ieeexplore.ieee.org/xpl/conhome/9458599/proceeding"
+  format: "Conference; Research Track Full Paper"
+  location: "Online"
+  links:
+    - { label: "Paper", url: "https://ieeexplore.ieee.org/document/9458789" }
+
+- date: 2025-08-26
+  type: tutorial
+  title: "Steer Thy Language Model"
+  event: "D3A: Danish Digitalization, Data Science and AI"
+  event_url: "https://d3aconference.dk/latent-space-navigation-interpretation-probing-and-steering/"
+  format: "Conference; Parallel session: Latent Space Navigation, Interpretation, Probing and Steering"
+  location: "Nyborg"
+  links:
+    - { label: "Slides", url: "https://speakerdeck.com/_themessier/steer-thy-language-model" }
+
+- date: 2025-06-01
+  month_unknown: true
+  type: talk
+  title: "Tracking Knowledge Diversity in LLM-Generated Responses"
+  event: "LCS2 Reading Group, IIT Delhi"
+  event_url: "https://lcs2.in/"
+  format: "Guest talk"
+  location: "Delhi"
+  links:
+    - { label: "Paper", url: "https://arxiv.org/abs/2510.04226" }
+
+- date: 2024-11-12
+  type: poster
+  title: "Hate Personified: Investigating the role of LLMs in content moderation"
+  event: "EMNLP"
+  event_url: "https://2024.emnlp.org/"
+  format: "Conference; Main conference paper; Presented remotely"
+  location: "Online"
+  links:
+    - { label: "Paper", url: "https://doi.org/10.18653/v1/2024.emnlp-main.886" }
+
+- date: 2024-04-10
+  type: talk
+  title: "Probing Critical Learning Dynamics of PLMs for Hate Speech Detection"
+  event: "TADA Reading Group (PolSci-ML Initiative)"
+  event_url: "https://sites.google.com/view/polsci-ml-initiative/talks"
+  format: "Invited talk"
+  location: "Online"
+  links:
+    - { label: "Paper", url: "https://doi.org/10.18653/v1/2024.findings-eacl.55" }

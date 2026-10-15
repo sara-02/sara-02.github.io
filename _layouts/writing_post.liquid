@@ -1,0 +1,14 @@
+---
+layout: post
+---
+<!-- The theme's post layout, followed by a link back to the writings page.
+     The theme's year/category line under the title is hidden: under /writings/ it links nowhere. -->
+<style>
+  .post-header .post-tags { display: none; }
+  .post-header { margin-bottom: 1.5rem; }
+</style>
+{{ content }}
+
+<p class="back-to-writing" style="margin-top: 2.5rem;">
+  <a href="{{ '/writings/' | relative_url }}">&larr; Back to writings</a>
+</p>
